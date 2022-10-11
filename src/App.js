@@ -21,21 +21,21 @@ export default function App() {
 			],
 		},
 		{
-			questionText: 'The iPhone was created by which company?',
+			questionText: 'Which of the following is an E-commerce company?',
 			answerOptions: [
-				{ answerText: 'Apple', isCorrect: true },
+				{ answerText: 'Apple', isCorrect: false },
 				{ answerText: 'Intel', isCorrect: false },
-				{ answerText: 'Amazon', isCorrect: false },
+				{ answerText: 'Amazon', isCorrect: true },
 				{ answerText: 'Microsoft', isCorrect: false },
 			],
 		},
 		{
-			questionText: 'How many Harry Potter books are there?',
+			questionText: 'What is the national bird of the United States?',
 			answerOptions: [
-				{ answerText: '1', isCorrect: false },
-				{ answerText: '4', isCorrect: false },
-				{ answerText: '6', isCorrect: false },
-				{ answerText: '7', isCorrect: true },
+				{ answerText: 'Eagle', isCorrect: true },
+				{ answerText: 'Parrot', isCorrect: false },
+				{ answerText: 'Crow', isCorrect: false },
+				{ answerText: 'Peacock', isCorrect: false },
 			],
 		},
 	];
