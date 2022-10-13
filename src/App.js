@@ -39,7 +39,7 @@ export default function App() {
 			],
 		},
 		{
-			questionText: 'What is the founder of Microsoft?',
+			questionText: 'Who is the founder of Microsoft?',
 			answerOptions: [
 				{ answerText: 'Bill Gates', isCorrect: true },
 				{ answerText: 'Steve Jobs', isCorrect: false },
