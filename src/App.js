@@ -34,7 +34,7 @@ export default function App() {
 			answerOptions: [
 				{ answerText: 'Eagle', isCorrect: true },
 				{ answerText: 'Parrot', isCorrect: false },
-				{ answerText: 'Crow', isCorrect: false },
+				{ answerText: 'Dove', isCorrect: false },
 				{ answerText: 'Peacock', isCorrect: false },
 			],
 		},
