@@ -27,7 +27,7 @@ body {
 .app {
     background-color: var(--color-secondary);
     min-width: 35rem; 
-    margin: 5rem auto 12rem 0;   
+    margin: 4rem auto 12rem 0;   
     height: 28rem;  
     border-radius: 15px;
     padding: 2rem;
