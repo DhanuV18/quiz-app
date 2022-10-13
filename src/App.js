@@ -38,6 +38,15 @@ export default function App() {
 				{ answerText: 'Peacock', isCorrect: false },
 			],
 		},
+		{
+			questionText: 'What is the founder of Microsoft?',
+			answerOptions: [
+				{ answerText: 'Bill Gates', isCorrect: true },
+				{ answerText: 'Steve Jobs', isCorrect: false },
+				{ answerText: 'Mark Zuckerberg', isCorrect: false },
+				{ answerText: 'Jack Ma', isCorrect: false },
+			],
+		}
 	];
 
 	const [currentQuestion, setCurrentQuestion] = useState(0);
